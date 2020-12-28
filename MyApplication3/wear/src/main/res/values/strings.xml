@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+
+    <string-array name="music_list">
+        <item>https://m7.music.126.net/20201222164603/2a9399cb63717262443a4103e05d6d65/ymusic/b5b5/9b5d/7ad7/fb41cc3731e57e6cdd5461c56085b3ba.mp3</item>
+        <item>https://m8.music.126.net/20201221144843/1c4f6d53a4f88ddd504f09af77b0ba97/ymusic/ae7d/8e77/6f25/16a5f5de47806b7b8bb6ce26268f7962.mp3</item>
+        <item>https://m8.music.126.net/20201221144945/89d5a613068f5a3c92e33653e19e77b1/ymusic/7261/a3bd/2309/18285fc8424d3be11d0a32756afb58b1.mp3</item>
+    </string-array>
+</resources>
